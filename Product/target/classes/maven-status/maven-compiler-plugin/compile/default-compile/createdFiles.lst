@@ -1,0 +1,5 @@
+com\pafgroup\springbootrestapi\controller\ProductController.class
+com\pafgroup\springbootrestapi\repository\ProductRepository.class
+com\pafgroup\springbootrestapi\dao\ProductDAO.class
+com\pafgroup\springbootrestapi\model\Product.class
+com\pafgroup\springbootrestapi\ProductApplication.class
