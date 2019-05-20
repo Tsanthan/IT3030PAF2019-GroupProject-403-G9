@@ -1,0 +1,10 @@
+com\example\demo\LoginApplication.class
+controller\UserController.class
+service\UserService.class
+configuration\SecurityConfiguration.class
+repository\RoleRespository.class
+model\Role.class
+repository\UserRepository.class
+configuration\WebMvcConfig.class
+service\UserServiceImpl.class
+model\User.class
